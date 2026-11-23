@@ -20,13 +20,19 @@
     crear e insertar nuevos registros o datos dentro de una base de datos. Es decir, permite almacenar información que todavía no
     existe en el sistema, agregándola a una tabla para que pueda ser guardada y utilizada posteriormente.</p>
 
-    
+    <h1>UPDATE</h1>
+    <p>En el modelo CRUD (Create, Read, Update, Delete), Update (Actualizar)
+    es la operación encargada de modificar o editar información que ya existe dentro de una base de datos o sistema. 
+    A diferencia de Create, que introduce registros nuevos desde cero, Update localiza un dato previamente guardado 
+    mediante un identificador único (como un ID) y sobrescribe uno o varios de sus campos con valores nuevos sin alterar el resto
+    de la información almacenada.</p>
+
     <h1>DELETE</h1>
     <p>En las operaciones CRUD, DELETE (Eliminar) es la instrucción encargada de borrar registros existentes dentro de una base 
     de datos o sistema. Sirve para quitar información que ya no es necesaria o que el usuario desea remover, 
     como eliminar una cuenta, borrar un producto de un catálogo o quitar un comentario—, permitiendo mantener los datos limpios 
     y actualizados, ya sea destruyendo el registro por completo (borrado físico) o simplemente ocultándolo del sistema para conservar 
     un historial (borrado lógico).</p>
+    
 </body>
-
 </html>
