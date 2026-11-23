@@ -20,4 +20,12 @@
        R - Read (Leer): permite consultar y visualizar los datos almacenados.
        U - Update (Actualizar): permite modificar o editar información existente.
        D - Delete (Eliminar): permite borrar datos que ya no son necesarios.</p>
+    
+    <h1>DELETE</h1>
+    <p>En las operaciones CRUD, DELETE (Eliminar) es la instrucción encargada de borrar registros existentes dentro de una base 
+    de datos o sistema. Sirve para quitar información que ya no es necesaria o que el usuario desea remover, 
+    como eliminar una cuenta, borrar un producto de un catálogo o quitar un comentario—, permitiendo mantener los datos limpios 
+    y actualizados, ya sea destruyendo el registro por completo (borrado físico) o simplemente ocultándolo del sistema para conservar 
+    un historial (borrado lógico).</p>
+
 </html>
