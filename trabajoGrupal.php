@@ -14,4 +14,7 @@
     CRUD es un conjunto de cuatro operaciones básicas que permiten gestionar los datos: Crear, Leer, Actualizar y Eliminar. 
     Estas operaciones facilitan la administración de la información y permiten que los usuarios puedan interactuar con los 
     datos de manera sencilla y organizada.</p>
+    
+    <h1>Read</h1>
+    <p>Read (Leer) es la operación del CRUD que sirve para buscar, consultar y mostrar los datos que ya están guardados en un sistema, sin cambiarlos ni borrarlos.</p>
 </html>
