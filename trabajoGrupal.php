@@ -14,4 +14,10 @@
     CRUD es un conjunto de cuatro operaciones básicas que permiten gestionar los datos: Crear, Leer, Actualizar y Eliminar. 
     Estas operaciones facilitan la administración de la información y permiten que los usuarios puedan interactuar con los 
     datos de manera sencilla y organizada.</p>
+
+    <h3>¿Que significa CRUD?</h3>
+    <p>C - Create (Crear): permite insertar nuevos datos en una base de datos.
+       R - Read (Leer): permite consultar y visualizar los datos almacenados.
+       U - Update (Actualizar): permite modificar o editar información existente.
+       D - Delete (Eliminar): permite borrar datos que ya no son necesarios.</p>
 </html>
