@@ -32,5 +32,14 @@ En el modelo CRUD (Create, Read, Update, Delete), Update (Actualizar)
     CRUD es un conjunto de cuatro operaciones básicas que permiten gestionar los datos: Crear, Leer, Actualizar y Eliminar. 
     Estas operaciones facilitan la administración de la información y permiten que los usuarios puedan interactuar con los 
     datos de manera sencilla y organizada.</p>
+<<<<<<< HEAD
 >>>>>>> 4218a47484f6e211d75d48eaf82dc058baa69ac2
+=======
+    
+    <h1>DELETE</h1>
+    <p>En las operaciones CRUD, DELETE (Eliminar) es la instrucción encargada de borrar registros existentes dentro de una base 
+    de datos o sistema. Sirve para quitar información que ya no es necesaria o que el usuario desea remover, 
+    como eliminar una cuenta, borrar un producto de un catálogo o quitar un comentario—, permitiendo mantener los datos limpios 
+    y actualizados, ya sea destruyendo el registro por completo (borrado físico) o simplemente ocultándolo del sistema para conservar un historial (borrado lógico).</p>
+>>>>>>> c1f64c1e703f861d896e9b8f4f224e325e9bb122
 </html>
