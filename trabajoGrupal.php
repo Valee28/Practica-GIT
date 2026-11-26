@@ -16,7 +16,6 @@
     Estas operaciones facilitan la administración de la información y permiten que los usuarios puedan interactuar con los 
     datos de manera sencilla y organizada.</p>
 
-<<<<<<< HEAD
     <h1>CREATE</h1>
     <p>Create es una de las cuatro operaciones fundamentales de CRUD (Create, Read, Update y Delete). Esta operación consiste en <br>
     crear e insertar nuevos registros o datos dentro de una base de datos. Es decir, permite almacenar información que todavía no
@@ -29,7 +28,6 @@
     mediante un identificador único (como un ID) y sobrescribe uno o varios de sus campos con valores nuevos sin alterar el resto
     de la información almacenada.</p>
 
-=======
     <h3>¿Que significa CRUD?</h3>
     <p>C - Create (Crear): permite insertar nuevos datos en una base de datos.
        R - Read (Leer): permite consultar y visualizar los datos almacenados.
@@ -44,16 +42,11 @@
     y sobrescribe uno o varios de sus campos con valores nuevos sin alterar el resto de la información almacenada.</p>
 
     
->>>>>>> 011e0512eb0be6424976979a89db6415d38d1a36
     <h1>DELETE</h1>
     <p>En las operaciones CRUD, DELETE (Eliminar) es la instrucción encargada de borrar registros existentes dentro de una base 
     de datos o sistema. Sirve para quitar información que ya no es necesaria o que el usuario desea remover, 
     como eliminar una cuenta, borrar un producto de un catálogo o quitar un comentario—, permitiendo mantener los datos limpios 
     y actualizados, ya sea destruyendo el registro por completo (borrado físico) o simplemente ocultándolo del sistema para conservar 
     un historial (borrado lógico).</p>
-<<<<<<< HEAD
-    
-=======
->>>>>>> 011e0512eb0be6424976979a89db6415d38d1a36
 </body>
 </html>
