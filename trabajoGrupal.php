@@ -20,7 +20,7 @@
     <p>C - Create (Crear): permite insertar nuevos datos en una base de datos.
        R - Read (Leer): permite consultar y visualizar los datos almacenados.
        U - Update (Actualizar): permite modificar o editar información existente.
-       D - Delete (Eliminar): permite borrar datos que ya no son necesarios.
+       D - Delete (Eliminar): permite borrar datos que ya no son ne cesarios.
     </p>
 
     <h1>CREATE</h1>
@@ -35,24 +35,9 @@
     mediante un identificador único (como un ID) y sobrescribe uno o varios de sus campos con valores nuevos sin alterar el resto
     de la información almacenada.</p>
 
-
-    <h3>¿Que significa CRUD?</h3>
-    <p>C - Create (Crear): permite insertar nuevos datos en una base de datos.
-       R - Read (Leer): permite consultar y visualizar los datos almacenados.
-       U - Update (Actualizar): permite modificar o editar información existente.
-       D - Delete (Eliminar): permite borrar datos que ya no son necesarios.
-    </p>
-
-    <h1>UPDATE</h1>
-    <p>En el modelo CRUD (Create, Read, Update, Delete), Update (Actualizar) es la operación encargada de modificar o editar 
-    información que ya existe dentro de una base de datos o sistema. A diferencia de Create, que introduce registros nuevos 
-    desde cero, Update localiza un dato previamente guardado mediante un identificador único (como un ID)
-    y sobrescribe uno o varios de sus campos con valores nuevos sin alterar el resto de la información almacenada.</p>
-
     <h1>READ</h1>
-    <p>Read (Leer) es la operación del CRUD que sirve para buscar, consultar y mostrar los datos que ya están guardados en un sistema, sin cambiarlos ni borrarlos.</p>
-
-    <h1>READ</h1>
+    <p>Read (Leer) es la operación del CRUD que sirve para buscar, consultar y mostrar los datos que ya están guardados en un sistema, 
+    sin cambiarlos ni borrarlos.</p>
 
     <h1>DELETE</h1>
     <p>En las operaciones CRUD, DELETE (Eliminar) es la instrucción encargada de borrar registros existentes dentro de una base 
@@ -60,8 +45,6 @@
     como eliminar una cuenta, borrar un producto de un catálogo o quitar un comentario—, permitiendo mantener los datos limpios 
     y actualizados, ya sea destruyendo el registro por completo (borrado físico) o simplemente ocultándolo del sistema para 
     conservar un historial (borrado lógico).</p>
-    y actualizados, ya sea destruyendo el registro por completo (borrado físico) o simplemente ocultándolo del sistema para conservar 
-    un historial (borrado lógico).</p>
     
 </body>
 </html>
