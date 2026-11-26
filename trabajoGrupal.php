@@ -6,6 +6,24 @@
     <title>Document</title>
 </head>
 <body>
+<<<<<<< HEAD
+       <h1>¿Qué es Update?</h1>
+    <p>
+En el modelo CRUD (Create, Read, Update, Delete), Update (Actualizar)
+ es la operación encargada de modificar o editar información que ya existe dentro de una base de datos o sistema. 
+ A diferencia de Create, que introduce registros nuevos desde cero, Update localiza un dato previamente guardado mediante un identificador único (como un ID)
+  y sobrescribe uno o varios de sus campos con valores nuevos sin alterar el resto de la información almacenada.
+
+
+
+
+
+
+
+    </p>
+    
+</body>
+=======
     <h1>OPERACIONES CRUD</h1>
     <h3>Introduccion</h3>
     <p>En el mundo de la programación y el desarrollo de software existen differentes operaciones que permiten administrar la 
@@ -14,6 +32,9 @@
     CRUD es un conjunto de cuatro operaciones básicas que permiten gestionar los datos: Crear, Leer, Actualizar y Eliminar. 
     Estas operaciones facilitan la administración de la información y permiten que los usuarios puedan interactuar con los 
     datos de manera sencilla y organizada.</p>
+<<<<<<< HEAD
+>>>>>>> 4218a47484f6e211d75d48eaf82dc058baa69ac2
+=======
     
 
     
@@ -28,6 +49,11 @@
     de datos o sistema. Sirve para quitar información que ya no es necesaria o que el usuario desea remover, 
     como eliminar una cuenta, borrar un producto de un catálogo o quitar un comentario—, permitiendo mantener los datos limpios 
     y actualizados, ya sea destruyendo el registro por completo (borrado físico) o simplemente ocultándolo del sistema para conservar un historial (borrado lógico).</p>
+<<<<<<< HEAD
 
     
-</html>
+=======
+>>>>>>> c1f64c1e703f861d896e9b8f4f224e325e9bb122
+>>>>>>> ad1c59cca32415e53bb433a035c1facd1cd5739d
+
+-$_COOKIE</html>
